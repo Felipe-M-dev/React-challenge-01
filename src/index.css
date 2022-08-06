@@ -28,3 +28,10 @@ code {
   height: 45px;
   padding-top: 15px;
 }
+
+.footer {
+  text-align: center;
+  font-size: small;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
