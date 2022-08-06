@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+body{
+  background-color: #00476b;
+}
+
+.tarjeta{
+  text-align: center;
+}
